@@ -23,7 +23,7 @@ the energy to the local grid and earn credits from the electric agency, whereas 
 it can request energy from the grid. Pros being it can never run out of power, while the downside is to
 have the reference voltage matching the grid.
 
-## Innovation in Testing
+## Testing Variables and Results (Grid Connected)
 
 With the PV equipment in place, a constant 1000 level irradiance was attached to the panel. This didn't account for the variable sunlight and
 radiation levels. To attempt to simulate more realistic conditions, a repeated sequence generator was
