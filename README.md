@@ -13,6 +13,10 @@ is more suitable for photovoltaic applications such as solar panels. These modes
 simulated within Simulink and MATLAB and later developed further using the Texas Instruments
 inverter kit.
 
+With the final design, instead of determining a solution to measuring the steady-state error, the
+team decided to swap to a PR controller, which eliminated the steady-state error entirely
+
+
 ## Barebones Explanation
 Closed loop mode essentially means that the inverter runs off grid. It is not connected to the main
 regional power grid and fully sources its energy from solar radiation. Generated surplus or a shortage are
