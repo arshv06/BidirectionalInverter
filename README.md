@@ -27,14 +27,15 @@ the energy to the local grid and earn credits from the electric agency, whereas 
 it can request energy from the grid. Pros being it can never run out of power, while the downside is to
 have the reference voltage matching the grid.
 
-## Testing Variables and Results (Grid Connected)
+## Testing Variables and Results 
 
 With the PV equipment in place, a constant 1000 level irradiance was attached to the panel. This didn't account for the variable sunlight and
 radiation levels. To attempt to simulate more realistic conditions, a repeated sequence generator was
 added into the design, to mimic variable sunlight (such as cloudy conditions, changing of the seasons,
 etc.)
-
-
+## Off Grid
+![Capture](https://user-images.githubusercontent.com/89353805/130368284-f9dc03a8-1c5e-4836-a152-3fc540357212.PNG)
+## Grid Connected
 ![image](https://user-images.githubusercontent.com/89353805/130368006-27811ea8-39fb-46d9-b089-9c325dddf979.png)
 
 
